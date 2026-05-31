@@ -74,8 +74,11 @@ git submodule update --remote --merge
    pnpm start:dev
    ```
 
-   - API: http://localhost:3001
+   - URL BASE: http://localhost:3001
+   - API DOCS: http://localhost:3001/docs
+   - Emails Inbox: http://localhost:8025
 
+   **Endpoints**
    - `GET /api/v1/products` — Lista produtos
    - `GET /api/v1/cart` — Consulta carrinho
    - `PUT /api/v1/cart` — Atualiza carrinho
