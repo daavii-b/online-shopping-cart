@@ -1,0 +1,6 @@
+[submodule "shopping-frontend"]
+	path = shopping-frontend
+	url = https://github.com/daavii-b/online-shopping-cart-frontend.git
+[submodule "shopping-backend"]
+	path = shopping-backend
+	url = https://github.com/daavii-b/online-shopping-cart-backend.git
