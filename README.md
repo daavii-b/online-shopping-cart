@@ -43,6 +43,9 @@ git submodule update --remote --merge
 1. **Pré-requisitos:**
    - Node.js 20+
    - pnpm 9+
+     - [Instalar Windows](https://pnpm.io/installation#on-windows)
+     - [Instalar Linux](https://pnpm.io/installation#on-posix-systems)
+     - [Instalar usando NPM](https://pnpm.io/installation#using-npm)
    - Docker e Docker Compose
 
 2. **Instale as dependências:**
